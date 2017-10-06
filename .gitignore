@@ -3,9 +3,4 @@
 .idea/REST_API.iml
 .idea/modules.xml
 .idea/workspace.xml
-app.js
 node_modules/
-package.json
-public/
-routes/
-views/
